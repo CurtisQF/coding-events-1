@@ -20,7 +20,7 @@ public class EventCategory {
         this.name = name;
     }
 
-    public EventCategory() {}
+    public EventCategory() { }
 
     public int getId() {
         return id;
